@@ -8,3 +8,7 @@ The OpenGL Utility Toolkit (GLUT) is a library of utilities for OpenGL programs,
 A small project(currently working) integrated using all the basic algorithms.
 
 Open for any suggestions.
+
+"hello lfdfsldf"
+
+"helli asdas "
